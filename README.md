@@ -1,5 +1,7 @@
 # Prompt Enginering
 
+[Important documentation Link](https://www.promptingguide.ai/introduction/basics)
+
 ### What is LLM's 
 
 > ``` LLLM's ``` is for Large Language Model like Chat GPT , Gemini , Claude etc <br> The LLM's is consider as AGI [Artficial Global Intelginte] the AI is sorted as [ANI , AGI , ASI] <br> LLM's هي خوارزمية تعلم آلي خاضعة للاشراف هدفها تحليل الانحدار او ال regression لمجموعة من البيانات باستخدام طريقة <br> الطريقة دي بتتسمي Ensemble Learning 
